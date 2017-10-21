@@ -13,6 +13,11 @@ q1=input()
 #if user sead yes
 if q1 == "yes":
     la = 0
-    while la <20:
+    while la <2000000000000:
         print ("LAGGGGGGGGGGGGGGGGGG!!!!!!!!!!!!!")
         la=la+1
+
+#if user seas no
+if q1 == "no":
+    print("Than why did you clone this repository?")
+    
